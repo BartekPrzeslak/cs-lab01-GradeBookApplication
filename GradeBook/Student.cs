@@ -10,6 +10,7 @@ namespace GradeBook
     public class Student
     {
         int xd = 0;
+        //
         public string Name { get; set; }
         //test
         public StudentType Type { get; set; }
